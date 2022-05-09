@@ -1,1 +1,1 @@
-web: python run.pygit add
+web: python run.py
